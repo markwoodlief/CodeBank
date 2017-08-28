@@ -1,0 +1,12 @@
+D:\Development\ConsoleApplication2\ConsoleApplication2\bin\Debug\CodeBank.exe.config
+D:\Development\ConsoleApplication2\ConsoleApplication2\bin\Debug\CodeBank.exe
+D:\Development\ConsoleApplication2\ConsoleApplication2\bin\Debug\CodeBank.pdb
+D:\Development\ConsoleApplication2\ConsoleApplication2\obj\Debug\CodeBank.csprojResolveAssemblyReference.cache
+D:\Development\ConsoleApplication2\ConsoleApplication2\obj\Debug\CodeBank.exe
+D:\Development\ConsoleApplication2\ConsoleApplication2\obj\Debug\CodeBank.pdb
+D:\Development\CodeBank\CodeBank\bin\Debug\CodeBank.exe.config
+D:\Development\CodeBank\CodeBank\obj\Debug\CodeBank.exe
+D:\Development\CodeBank\CodeBank\obj\Debug\CodeBank.pdb
+D:\Development\CodeBank\CodeBank\bin\Debug\CodeBank.exe
+D:\Development\CodeBank\CodeBank\bin\Debug\CodeBank.pdb
+D:\Development\CodeBank\CodeBank\obj\Debug\CodeBank.csprojResolveAssemblyReference.cache

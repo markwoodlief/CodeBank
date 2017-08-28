@@ -1,0 +1,3 @@
+6 | Seattle | Washington | I-5;I-90;
+27 | Chicago | Illinois | I-94;I-90;I-99;I-57;I-55;
+32 | San Bernadino | California | I-5;I-80;
